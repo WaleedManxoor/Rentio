@@ -9,7 +9,7 @@ export default function HeroSection() {
       // 1. CRITICAL: h-[450px] or h-screen gives the div height. Without height, the image has nowhere to display.
       // 2. CRITICAL: bg-cover ensures the image fills the container.
       // 3. CRITICAL: bg-center centers the image.
-      className="relative h-[450px] md:h-[550px] w-full bg-cover bg-center mb-10"
+      className="relative h-[450px] md:h-[550px] w-full bg-cover bg-center mb-10 dark:bg-blue-900"
       
       // The inline style applies the image URL.
       style={{ backgroundImage: `url('${HERO_IMAGE_URL}')` }}

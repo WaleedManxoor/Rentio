@@ -4,7 +4,7 @@
     "title": "Luxury Apartment",
     "city": "New York",
     "type": "Apartment",
-    "price": 1200,
+    "price": 1200000,
     "rating": 4.5,
     "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60"
   },
@@ -13,7 +13,7 @@
     "title": "Modern Villa",
     "city": "Los Angeles",
     "type": "Villa",
-    "price": 2500,
+    "price": 2500000,
     "rating": 4.8,
     "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60"
   },
@@ -22,7 +22,7 @@
     "title": "Family House",
     "city": "Chicago",
     "type": "House",
-    "price": 1800,
+    "price": 180000,
     "rating": 4.3,
     "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=800&q=60"
   },
@@ -31,7 +31,7 @@
     "title": "Beach Villa",
     "city": "Miami",
     "type": "Villa",
-    "price": 3200,
+    "price": 3200000,
     "rating": 5.0,
     "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=60"
   },
@@ -43,7 +43,7 @@
     "title": "Urban Studio",
     "city": "San Francisco",
     "type": "Apartment",
-    "price": 1400,
+    "price": 4000000,
     "rating": 4.2,
     "image": "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1?auto=format&fit=crop&w=800&q=60"
   },
@@ -52,7 +52,7 @@
     "title": "Country House",
     "city": "Austin",
     "type": "House",
-    "price": 1600,
+    "price": 6000000,
     "rating": 4.4,
     "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=800&q=60"
   },
@@ -61,7 +61,7 @@
     "title": "Penthouse Suite",
     "city": "New York",
     "type": "Apartment",
-    "price": 4500,
+    "price": 4500000,
     "rating": 4.9,
     "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60"
   },
@@ -70,7 +70,7 @@
     "title": "Lakeside Villa",
     "city": "Seattle",
     "type": "Villa",
-    "price": 3500,
+    "price": 3500000,
     "rating": 4.7,
     "image": "https://images.unsplash.com/photo-1599423300746-b62533397364?auto=format&fit=crop&w=800&q=60"
   },
@@ -79,7 +79,7 @@
     "title": "Suburban Home",
     "city": "Dallas",
     "type": "House",
-    "price": 1700,
+    "price": 7500000,
     "rating": 4.1,
     "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=800&q=60"
   },
@@ -97,7 +97,7 @@
     "title": "Mountain Cabin",
     "city": "Denver",
     "type": "House",
-    "price": 1300,
+    "price": 1300000,
     "rating": 4.3,
     "image": "https://images.unsplash.com/photo-1501183638710-841dd1904471?auto=format&fit=crop&w=800&q=60"
   },
@@ -106,7 +106,7 @@
     "title": "Royal Villa",
     "city": "Las Vegas",
     "type": "Villa",
-    "price": 5200,
+    "price": 5200000,
     "rating": 4.9,
     "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60"
   },
@@ -115,7 +115,7 @@
     "title": "Small Studio",
     "city": "Boston",
     "type": "Apartment",
-    "price": 900,
+    "price": 9546000,
     "rating": 4.0,
     "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=800&q=60"
   },
@@ -124,7 +124,7 @@
     "title": "Luxury Mansion",
     "city": "Beverly Hills",
     "type": "House",
-    "price": 9800,
+    "price": 9800000,
     "rating": 5.0,
     "image": "https://images.unsplash.com/photo-1599423300746-b62533397364?auto=format&fit=crop&w=800&q=60"
   }
