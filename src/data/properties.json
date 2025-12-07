@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "title": "Luxury Apartment",
+    "city": "New York",
+    "type": "Apartment",
+    "price": 1200,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 2,
+    "title": "Modern Villa",
+    "city": "Los Angeles",
+    "type": "Villa",
+    "price": 2500,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 3,
+    "title": "Family House",
+    "city": "Chicago",
+    "type": "House",
+    "price": 1800,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 4,
+    "title": "Beach Villa",
+    "city": "Miami",
+    "type": "Villa",
+    "price": 3200,
+    "rating": 5.0,
+    "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=60"
+  },
+
+
+
+  {
+    "id": 5,
+    "title": "Urban Studio",
+    "city": "San Francisco",
+    "type": "Apartment",
+    "price": 1400,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 6,
+    "title": "Country House",
+    "city": "Austin",
+    "type": "House",
+    "price": 1600,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1505692794403-34cb0b21e2b2?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 7,
+    "title": "Penthouse Suite",
+    "city": "New York",
+    "type": "Apartment",
+    "price": 4500,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 8,
+    "title": "Lakeside Villa",
+    "city": "Seattle",
+    "type": "Villa",
+    "price": 3500,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1599423300746-b62533397364?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 9,
+    "title": "Suburban Home",
+    "city": "Dallas",
+    "type": "House",
+    "price": 1700,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1600585153751-840d1f0d5c51?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 10,
+    "title": "Oceanfront Apartment",
+    "city": "Miami",
+    "type": "Apartment",
+    "price": 2100,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 11,
+    "title": "Mountain Cabin",
+    "city": "Denver",
+    "type": "House",
+    "price": 1300,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1501183638710-841dd1904471?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 12,
+    "title": "Royal Villa",
+    "city": "Las Vegas",
+    "type": "Villa",
+    "price": 5200,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 13,
+    "title": "Small Studio",
+    "city": "Boston",
+    "type": "Apartment",
+    "price": 900,
+    "rating": 4.0,
+    "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 14,
+    "title": "Luxury Mansion",
+    "city": "Beverly Hills",
+    "type": "House",
+    "price": 9800,
+    "rating": 5.0,
+    "image": "https://images.unsplash.com/photo-1613977257365-a68ef1c5236f?auto=format&fit=crop&w=800&q=60"
+  }
+]
